@@ -1,5 +1,0 @@
-Ayush: 84.33
-Rohit: 66.67
-Sneha: 91.67
-Anita: 50.0
-Vikram: 75.0
