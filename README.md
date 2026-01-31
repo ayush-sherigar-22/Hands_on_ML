@@ -14,3 +14,12 @@ WEEK 2 – END-TO-END MACHINE LEARNING
   Day 10: Pipelines and preprocessing
   Day 11: Training and evaluation
   Day 12: Rebuild housing project from memory
+
+WEEK 3 – MODEL EVALUATION & IMPROVEMENT (Géron Chapter 2)
+  Day 13: Evaluation strategy and data splitting  
+  Day 14: Bias–variance tradeoff and learning curves  
+  Day 15: Error analysis and failure diagnosis  
+  Day 16: Hyperparameter tuning and validation reasoning  
+  Day 17: Model comparison and explainability  
+  Day 18: Full project rebuild with justified model selection
+
