@@ -29,6 +29,7 @@ Day 18: Full project rebuild with justified model selection
 ---
 ## WEEK 4 – CLASSIFICATION FUNDAMENTALS & ERROR ANALYSIS
 
+
 Day 19: Binary classification fundamentals and problem framing
 Day 20: Performance metrics – precision, recall, F1, and accuracy pitfalls
 Day 21: Confusion matrix interpretation and error types (FP, FN)
