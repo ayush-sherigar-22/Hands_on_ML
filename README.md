@@ -27,7 +27,7 @@ Day 17: Model comparison and explainability
 Day 18: Full project rebuild with justified model selection  
 
 ---
-WEEK 4 – CLASSIFICATION FUNDAMENTALS & ERROR ANALYSIS
+## WEEK 4 – CLASSIFICATION FUNDAMENTALS & ERROR ANALYSIS
 
 Day 19: Binary classification fundamentals and problem framing
 Day 20: Performance metrics – precision, recall, F1, and accuracy pitfalls
