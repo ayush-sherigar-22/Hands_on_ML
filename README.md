@@ -9,12 +9,12 @@ Day 7: Evaluation and revision
 
 ## WEEK 2 – END-TO-END MACHINE LEARNING
 
-Day 8: Géron Chapter 2 – Problem framing and data loading  
-Day 9: Exploratory data analysis (EDA) and visualization  
+Day 8:  Géron Chapter 2 – Problem framing and data loading  
+Day 9:  Exploratory data analysis (EDA) and visualization  
 Day 10: Pipelines and preprocessing  
 Day 11: Model training and evaluation  
 Day 12: Rebuild housing project from memory  
-
+Day 13: Practice
 ---
 
 ## WEEK 3 – MODEL EVALUATION & IMPROVEMENT
@@ -41,3 +41,13 @@ Day 26: Multiclass classification – OvR, OvO, and multiclass metrics
 Day 27: Multiclass error analysis using normalized confusion matrices  
 
 ---  
+
+## WEEK 5 – TRAINING MODELS
+
+Day 29: Multilabel and Multioutput Classification
+Day 30: End-to-End Classification Project 
+Day 31: Linear Regression (vectorized form, Normal Equation)
+Day 32: Gradient Descent : Batch, Stochastic, Mini-Batch
+Day 33: Polynomial Regression & Learning Curves
+
+---
