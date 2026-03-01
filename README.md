@@ -56,6 +56,7 @@ Day 32: Gradient descent – Batch, Stochastic, and Mini-batch
 Day 33: Polynomial regression and learning curves  
 
 ---
+
 ## WEEK 6 - SUPPORT VECTOR MACHINES
 Day 36: EarlyStopping
 Day 37: Log Regression Decision boundary & Softmax
