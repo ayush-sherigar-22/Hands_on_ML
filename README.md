@@ -56,3 +56,13 @@ Day 32: Gradient descent – Batch, Stochastic, and Mini-batch
 Day 33: Polynomial regression and learning curves  
 
 ---
+
+## WEEK 6 – SUPPORT VECTOR MACHINES & REGULARIZATION
+
+Day 36: Early Stopping and Regularization Techniques  
+Day 37: Logistic Regression – Decision Boundary and Softmax  
+Day 38: Linear SVM and Soft Margin Classification  
+Day 39: Nonlinear SVM – Polynomial Features, Similarity Features, Gaussian RBF Kernel  
+Day 40: SVM Regression
+
+---
