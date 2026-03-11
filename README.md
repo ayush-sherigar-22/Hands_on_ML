@@ -1,6 +1,5 @@
 # Machine Learning Roadmap
 
-
 ---
 
 ## WEEK 1 – FOUNDATIONS & DATA PREPARATION
