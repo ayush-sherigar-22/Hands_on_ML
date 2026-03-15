@@ -70,7 +70,6 @@ Day 40: SVM Regression
 ## WEEK 7 - DECISION TREES
 
 Day 41: Decision Tree Introducion
-
 Day 42: Decision Tree Regression, Sentivity to axis orientation, Decision tree high variance
 
 ---
