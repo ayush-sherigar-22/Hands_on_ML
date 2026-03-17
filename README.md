@@ -66,3 +66,10 @@ Day 39: Nonlinear SVM – Polynomial Features, Similarity Features, Gaussian RBF
 Day 40: SVM Regression
 
 ---
+
+## WEEK 7 – DECISION TREES
+
+Day 41: Decision Tree Introduction  
+Day 42: Decision Tree Regression, Sensitivity to Axis Orientation, High Variance of Decision Trees
+
+---
