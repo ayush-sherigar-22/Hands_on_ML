@@ -71,5 +71,9 @@ Day 40: SVM Regression
 
 Day 41: Decision Tree Introduction  
 Day 42: Decision Tree Regression, Sensitivity to Axis Orientation, High Variance of Decision Trees
+Day 43: Ensemble Learning, Voting Classifier, Bagging and Pasting
+Day 44: Random Forest Classifier and Feature Importance
+Day 45: AdaBoost  
+Day 46: Gradient Boosting and Stacking
 
 ---
