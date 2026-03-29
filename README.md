@@ -78,3 +78,10 @@
 
 ---
 
+## 📅 WEEK 8 – DIMENSIONALITY REDUCTION
+
+- **Day 50:** PCA Introduction  
+- **Day 51:** PCA for Compression, Randomized PCA, Incremental PCA, Random Projection  
+- **Day 52:** LLE and Kernel PCA  
+
+---
